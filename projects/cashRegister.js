@@ -11,7 +11,7 @@ const currencyUnit = {
   }
   
   function checkCashRegister(price, cash, cid) {
-    let changeSum = cash * 100 - price * 100;
+    let changeSum = (cash - price) * 100;
     let changeCheck = changeSum;
     let change = [];
     let status = '';
