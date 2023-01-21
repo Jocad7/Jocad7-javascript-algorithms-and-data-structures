@@ -1,4 +1,4 @@
-# $\color[RGB]{54,148,77}javascript algorithms and data structures$
+# $\color[RGB]{54,148,77}javascript-algorithms-and-data-structures$
 
 these projects are part of the freecodecamp course.
 
